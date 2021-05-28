@@ -25,20 +25,5 @@ $(function() {
 
 });
  
- // メニューをクリックされたら、非表示に
-
-
-// $(function() {
-//  $('#html1').click (function(){
-//    $("#html").toggle(1000);
-   
-//  });
-
-// });
-// $(function() {
-//  $('#btn2').click (function(){
-//    $("#img1").toggle(1000);
-   
-//  });
-
+ 
 
